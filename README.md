@@ -3,3 +3,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 ## Assignments
 
 [HW0](HW0.md) - Course Setup (due Jan 21, Week 2) 
+
+[HW1](HW1.md) - Responsible Conduct of Research Training (due Jan 21, Week 2)
+
