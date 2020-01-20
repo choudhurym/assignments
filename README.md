@@ -6,3 +6,4 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 
 [HW1](HW1.md) - Responsible Conduct of Research Training (due Jan 21, Week 2)
 
+[HW2](HW2.md) - Establish an Academic Presence (due Jan 28, Week 3)
