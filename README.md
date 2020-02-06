@@ -10,5 +10,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 
 [HW3](HW3.md) - Research Paper Summary (due Feb 4, Week 4)
 
+[HW4](HW4.md) - Publication Venues and BibTeX (due Feb 11, Week 5)
 
 [Dissertation Presentation](Dissertation.md) (due Mar 31, Week 11)
