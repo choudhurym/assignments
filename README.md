@@ -12,4 +12,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 
 [HW4](HW4.md) - Publication Venues and BibTeX (due Feb 11, Week 5)
 
+[HW5](HW5.md) - Revision of Research Paper Summary (due Feb 25, Week 7)
+
 [Dissertation Presentation](Dissertation.md) (due Mar 31, Week 11)
