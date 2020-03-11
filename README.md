@@ -14,4 +14,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 80
 
 [HW5](HW5.md) - Revision of Research Paper Summary (due Feb 25, Week 7)
 
+[HWs6-9](HW6-9.md) - 4 separate assignments to write summaries of ODU-CS research  (due Mar 5, Mar 19, Mar 25, Apr 2)
+
 [Dissertation Presentation](Dissertation.md) (due Mar 31, Week 11)
