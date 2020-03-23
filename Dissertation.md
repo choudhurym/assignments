@@ -2,7 +2,9 @@
 
 *This is the public posting of the assignment. See Piazza for the invite link to make your submission in your own repository in the class organization*
 
-**Due:** Tuesday, March 31, 2020 *before* class 
+***This assignment has been updated March 23, 2020.  See "History" for a list of changes.***
+
+**Due:** Tuesday, April 14, 2020 by 5pm
 
 Acknowledgement: This assignment was inspired by the ["Dissertationpalooza!"](https://phonedude.github.io/cs891-f17/dissertationpalooza.html) from [CS 891 at ODU](https://phonedude.github.io/cs891-f17/).
 
@@ -26,14 +28,24 @@ Although the presentations will be given over the period of a month, everyone ha
 After the submission deadline, I will download all presentations to the classroom computer.
 
 ## Submission
+There are two steps for this submission.  One on GitHub and one on Piazza.
 
-You only need to submit a Markdown file with the following information:
-* Date you are scheduled to present
+1) GitHub submission.
+
+Create a Markdown file with the following information:
 * Reference line for the dissertation you are presenting<br/>
-  Ex: Mat Kelly, "Aggregating Private and Public Web Archives Using the Mementity Framework," PhD thesis, Old Dominion University, August 2019.
-* Link to the dissertation you are presenting<br/>
-  Ex: https://digitalcommons.odu.edu/computerscience_etds/94/
+(just copy/paste your line from https://github.com/cs800-research-spr20/dissertation-sched/blob/master/README.md) <br/>
 * Link to your presentation slides.
-<br/>These can be published as Google Slides, pushed to Slideshare (with option to download), or as a PDF/PPT in your GitHub repo.
+* Link to your presentation video.
 
-Submit the URL of your Markdown file in Homeworks > Presentation in Blackboard.
+Make sure that you have committed and pushed your local repo to the repository on GitHub.  When you make your final commit, use the commit message: "Presentation submitted @weiglemc". This will generate an email to me.
+
+2) Piazza submission.
+
+Create a new post in [Piazza](https://piazza.com/class/k41ifudwv3164t) with the following information:
+* Use the "presentation" tag.
+* The "Summary" of the post should be "*ODU username* - Dissertation Presentation"
+* The text of the post should contain
+    * information on the dissertation you are presenting<br/>
+  (just copy/paste your line from https://github.com/cs800-research-spr20/dissertation-sched/blob/master/README.md) 
+    * link to your presentation video
