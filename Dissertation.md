@@ -30,7 +30,7 @@ After the submission deadline, I will download all presentations to the classroo
 ## Submission
 There are two steps for this submission.  One on GitHub and one on Piazza.
 
-1) GitHub submission.
+#### GitHub submission.
 
 Create a Markdown file with the following information:
 * Reference line for the dissertation you are presenting<br/>
@@ -40,7 +40,7 @@ Create a Markdown file with the following information:
 
 Make sure that you have committed and pushed your local repo to the repository on GitHub.  When you make your final commit, use the commit message: "Presentation submitted @weiglemc". This will generate an email to me.
 
-2) Piazza submission.
+#### Piazza submission.
 
 Create a new post in [Piazza](https://piazza.com/class/k41ifudwv3164t) with the following information:
 * Use the "presentation" tag.
