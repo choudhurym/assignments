@@ -21,11 +21,23 @@ You will read the dissertation and prepare and deliver a 20-minute presentation.
 
 Feel free to use figures and tables from the dissertation (be sure to mark their number from the original work), but the slides and text must be your own work – not a simplified version of the original slides. You’re presenting your perspective on their work – not just a [karaoke](https://en.wikipedia.org/wiki/Karaoke) version of the original presentation.
 
-**Online Students:** If you can attend class in person on one of the presentation days (March 31 - April 23), you are welcome to present live. If not, you will have to record yourself giving the presentation. You are strongly encouraged to create conditions similar to giving the talk in person, such as recording a video where you are presenting the work standing in front of a screen (a large TV works, too) rather than a talking head over a set of slides. 
+### Presentation Guidelines
 
-Although the presentations will be given over the period of a month, everyone has the same due date for their presentation materials (March 31). We will work on scheduling the presentation slots before Spring Break.
+Since you are all now online students, here are guidelines for your presentations. 
 
-After the submission deadline, I will download all presentations to the classroom computer.
+**Slides:** Create your presentation slides as you normally would have done.  These can be done with Google Slides, PPT, or PDF. For PPT or PDF, upload the document to your GitHub repo. For all cases, include a link to the slides in your Markdown document (see GitHub submission below). *I am willing to provide feedback on slides if you request it by April 7.*
+
+**Presentation:** You will need to create a video of yourself giving the presentation. You are strongly encouraged to create conditions similar to giving the talk in person, such as recording a video where you are presenting the work standing next to your slides on a screen (a monitor or TV works, too) rather than a talking head over a set of slides. 
+
+There are several ways that you can do this:
+* record video with your phone/tablet/computer and upload to YouTube or Vimeo
+* Zoom (*login w/ODU credentials*) - https://odu.edu/ts/software-services/zoom
+* Google Hangout Meet (*login w/ODU credentials*) - https://meet.google.com/_meet
+* Blackboard Collaborate Ultra (*not clear that you can create your own session and record*) - https://www.odu.edu/content/dam/odu/offices/occs/docs/collaborate-guide.pdf
+
+Make sure that the video you create is publicly-viewable. Your classmates will need to be able to view your presentation for HW9.
+
+*If you do not have the technical resources available to create a video of your presentation, please contact me as soon as possible, so that we can work something out.*
 
 ## Submission
 There are two steps for this submission.  One on GitHub and one on Piazza.
@@ -33,10 +45,10 @@ There are two steps for this submission.  One on GitHub and one on Piazza.
 #### GitHub submission.
 
 Create a Markdown file with the following information:
-* Reference line for the dissertation you are presenting<br/>
+* reference line for the dissertation you are presenting<br/>
 (just copy/paste your line from https://github.com/cs800-research-spr20/dissertation-sched/blob/master/README.md) <br/>
-* Link to your presentation slides.
-* Link to your presentation video.
+* link to your presentation slides
+* link to your presentation video
 
 Make sure that you have committed and pushed your local repo to the repository on GitHub.  When you make your final commit, use the commit message: "Presentation submitted @weiglemc". This will generate an email to me.
 
