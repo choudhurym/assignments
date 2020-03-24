@@ -27,7 +27,7 @@ Since you are all now online students, here are guidelines for your presentation
 
 **Slides:** Create your presentation slides as you normally would have done.  These can be done with Google Slides, PPT, or PDF. For PPT or PDF, upload the document to your GitHub repo. For all cases, include a link to the slides in your Markdown document (see GitHub submission below). *I am willing to provide feedback on slides if you request it by April 7.*
 
-**Presentation:** You will need to create a video of yourself giving the presentation. You are strongly encouraged to create conditions similar to giving the talk in person, such as recording a video where you are presenting the work standing next to your slides on a screen (a monitor or TV works, too) rather than a talking head over a set of slides. 
+**Presentation:** You will need to create a video of yourself giving the presentation. You are strongly encouraged to create conditions similar to giving the talk in person, such as recording a video where you are presenting the work standing next to your slides on a screen (a monitor or TV works, too) rather than a talking head over a set of slides. Try to make sure that your slides are readable in the video.
 
 There are several ways that you can do this:
 * record video with your phone/tablet/computer and upload to YouTube or Vimeo
@@ -60,4 +60,5 @@ Create a new post in [Piazza](https://piazza.com/class/k41ifudwv3164t) with the 
 * The text of the post should contain
     * information on the dissertation you are presenting<br/>
   (just copy/paste your line from https://github.com/cs800-research-spr20/dissertation-sched/blob/master/README.md) 
-    * link to your presentation video
+    * link to your presentation video<br/>
+    *(if your slides are readable in the video, provide a publicly-available link to your slides)*
