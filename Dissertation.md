@@ -61,4 +61,4 @@ Create a new post in [Piazza](https://piazza.com/class/k41ifudwv3164t) with the 
     * information on the dissertation you are presenting<br/>
   (just copy/paste your line from https://github.com/cs800-research-spr20/dissertation-sched/blob/master/README.md) 
     * link to your presentation video<br/>
-    *(if your slides are readable in the video, provide a publicly-available link to your slides)*
+    *(if your slides aren't readable in the video, provide a publicly-available link to your slides)*
